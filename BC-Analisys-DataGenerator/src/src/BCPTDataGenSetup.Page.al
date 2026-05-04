@@ -1,4 +1,4 @@
-namespace System.Test.Tooling;
+namespace Ciellos.Test.Tooling;
 
 page 99051 "BCPT Data Gen. Setup"
 {

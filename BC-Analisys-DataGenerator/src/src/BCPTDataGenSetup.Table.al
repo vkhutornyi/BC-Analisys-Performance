@@ -1,4 +1,4 @@
-namespace System.Test.Tooling;
+namespace Ciellos.Test.Tooling;
 
 using Microsoft.Inventory.Location;
 using Microsoft.Foundation.NoSeries;
