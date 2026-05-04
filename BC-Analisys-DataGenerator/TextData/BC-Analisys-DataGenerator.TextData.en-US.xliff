@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TextDataApp">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 265794812 - Action 3130549790 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creates all items, posts item journals, and posts sales invoices based on the settings above.</source>
+          <target>Creates all items, posts item journals, and posts sales invoices based on the settings above.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Action RunGenerator - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Action 3130549790 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Data Generator</source>
+          <target>Run Data Generator</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Action RunGenerator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 1315207322 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates whether the item journal for standard items has been posted.</source>
+          <target>Indicates whether the item journal for standard items has been posted.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control IJ No SN Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 1554554962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <target>Items</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 1686484424 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many item journal lines to create and post for standard items.</source>
+          <target>Specifies how many item journal lines to create and post for standard items.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control No. of IJ Lines No SN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 1855201717 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many sales lines each invoice will contain.</source>
+          <target>Specifies how many sales lines each invoice will contain.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Lines per Invoice - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 2000452096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows how many S/N tracked items have been generated so far.</source>
+          <target>Shows how many S/N tracked items have been generated so far.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control SN Items Generated - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 2161572060 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the location used when posting item journal lines (e.g. YELLOW, SILVER, WHITE).</source>
+          <target>Specifies the location used when posting item journal lines (e.g. YELLOW, SILVER, WHITE).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Location Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 2345290592 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many sales invoices to create and post.</source>
+          <target>Specifies how many sales invoices to create and post.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control No. of Sales Invoices - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 2728404382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoices</source>
+          <target>Sales Invoices</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control SalesInvoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 3037551876 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many standard inventory items to create.</source>
+          <target>Specifies how many standard inventory items to create.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control No. of Items - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 3184025203 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows how many standard items have been generated so far.</source>
+          <target>Shows how many standard items have been generated so far.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Items Generated - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 3289767198 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>When enabled, all progress is reset and the generator starts from the beginning on next run.</source>
+          <target>When enabled, all progress is reset and the generator starts from the beginning on next run.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Start from Scratch - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 3596492015 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many item journal lines (one per serial number) to create and post for S/N tracked items.</source>
+          <target>Specifies how many item journal lines (one per serial number) to create and post for S/N tracked items.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control No. of IJ Lines SN - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 3773716913 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Indicates whether the item journal for S/N tracked items has been posted.</source>
+          <target>Indicates whether the item journal for S/N tracked items has been posted.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control IJ SN Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 4121600304 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal</source>
+          <target>Item Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control ItemJournal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 4237402031 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Progress</source>
+          <target>Progress</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Progress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 77856779 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the No. Series used to assign serial numbers to S/N tracked items.</source>
+          <target>Specifies the No. Series used to assign serial numbers to S/N tracked items.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control SN No. Series - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 828040477 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shows how many sales invoices have been posted so far.</source>
+          <target>Shows how many sales invoices have been posted so far.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control Sales Invoices Posted - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Control 937789679 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how many items with Serial Number tracking to create.</source>
+          <target>Specifies how many items with Serial Number tracking to create.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Control No. of SN Items - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 265794812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCPT Data Generator Setup</source>
+          <target>BCPT Data Generator Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Data Gen. Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 1315207322 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal (No S/N) Posted</source>
+          <target>Item Journal (No S/N) Posted</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field IJ No SN Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <target>Primary Key</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 1686484424 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Item Journal Lines (No S/N)</source>
+          <target>No. of Item Journal Lines (No S/N)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field No. of IJ Lines No SN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 1855201717 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Lines per Invoice</source>
+          <target>No. of Lines per Invoice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field Lines per Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 2000452096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>S/N Items Generated (Progress)</source>
+          <target>S/N Items Generated (Progress)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field SN Items Generated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 2161572060 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code for Item Journal</source>
+          <target>Location Code for Item Journal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 2345290592 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Sales Invoices to Create</source>
+          <target>No. of Sales Invoices to Create</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field No. of Sales Invoices - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 3037551876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Items to Create</source>
+          <target>No. of Items to Create</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field No. of Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 3184025203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items Generated (Progress)</source>
+          <target>Items Generated (Progress)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field Items Generated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 3289767198 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start from Scratch</source>
+          <target>Start from Scratch</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field Start from Scratch - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 3596492015 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Item Journal Lines (S/N)</source>
+          <target>No. of Item Journal Lines (S/N)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field No. of IJ Lines SN - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 3773716913 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Journal (S/N) Posted</source>
+          <target>Item Journal (S/N) Posted</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field IJ SN Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 77856779 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series for Serial Numbers</source>
+          <target>No. Series for Serial Numbers</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field SN No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 828040477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoices Posted (Progress)</source>
+          <target>Sales Invoices Posted (Progress)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field Sales Invoices Posted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Field 937789679 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Items with S/N Tracking</source>
+          <target>No. of Items with S/N Tracking</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Field No. of SN Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 265794812 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCPT Data Gen. Setup</source>
+          <target>BCPT Data Gen. Setup</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Data Gen. Setup - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
