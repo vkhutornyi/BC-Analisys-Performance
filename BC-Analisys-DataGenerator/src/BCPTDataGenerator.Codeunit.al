@@ -150,7 +150,7 @@ codeunit 99052 "BCPT Data Generator"
         Item: Record Item;
     begin
         Item.SetFilter(Description, DescriptionPrefix + '*');
-        Item.SetLoadFields("No.");
+        // Item.SetLoadFields("No.");
         if Item.FindSet() then
             repeat
                 ItemList.Add(Item."No.");
