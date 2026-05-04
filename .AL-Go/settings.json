@@ -4,5 +4,9 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "codeAnalyzers": ["${CodeCop}", "${PerTenantExtensionCop}", "${UICop}"]
+  "codeAnalyzers": [
+    "${CodeCop}",
+    "${PerTenantExtensionCop}",
+    "${UICop}"
+  ]
 }
