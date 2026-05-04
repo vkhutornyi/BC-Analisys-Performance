@@ -1,0 +1,22 @@
+
+
+# PartnerCore local data (per-developer memory, knowledge overrides, findings)
+.partnercore/
+partnercore-al-performance/
+
+# AL performance cache (created by AL Language Extension during scans)
+.vscode/al-performance-cache/
+
+# PartnerCore MCP config (contains API key)
+.mcp.json
+
+# PartnerCore-managed AI instruction files (auto-generated, per-developer)
+CLAUDE.md
+.cursorrules
+.windsurfrules
+.claude/agents/partnercore*.md
+.cursor/rules/partnercore*.mdc
+.windsurf/rules/partnercore*.md
+.github/agents/partnercore*.md
+.github/instructions/*partnercore*.md
+.github/copilot-instructions.md
