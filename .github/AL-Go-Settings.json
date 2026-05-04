@@ -2,5 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.0/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
-  "trackALAlertsInGitHub": true
+  "trackALAlertsInGitHub": true,
+  "alDoc": {
+    "continuousDeployment": true,
+    "deployToGitHubPages": true,
+    "maxReleases": 3
+  }
 }
