@@ -150,7 +150,7 @@ codeunit 99052 "BCPT Data Generator"
         Item: Record Item;
     begin
         Item.SetFilter(Description, DescriptionPrefix + '*');
-        Item.SetLoadFields("No.");
+        // PERF ISSUE: SetLoadFields removed — all fields fetched from DB unnecessarily
         if Item.FindSet() then
             repeat
                 ItemList.Add(Item."No.");
@@ -478,6 +478,9 @@ codeunit 99052 "BCPT Data Generator"
         ItemIdx := ((StartInvoice - 1) * LinesPerInvoice) mod ItemList.Count() + 1;
 
         for i := StartInvoice to InvoiceCount do begin
+            // PERF ISSUE: CalcFields inside a loop causes one extra SQL query per iteration
+            Customer.CalcFields("Balance (LCY)");
+
             SalesHeader.Init();
             SalesHeader."Document Type" := SalesHeader."Document Type"::Invoice;
             SalesHeader.Insert(true);
